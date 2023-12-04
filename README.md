@@ -30,6 +30,8 @@ HydratioMate is a web application designed to help you track your daily water in
 
 ![screenshot](assets/images/screenshot.png)
 
+**Live Demo**: [HydratioMate Demo](https://hydratiomate.netlify.app/)
+
 ## Features
 
 - Track your daily water intake
