@@ -66,12 +66,6 @@ HydratioMate utilizes the following technologies, languages, and libraries:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Sweetalert2](https://sweetalert2.github.io/)
 
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 > [vitalefrancesco.com](https://www.vitalefrancesco.com) &nbsp;&middot;&nbsp;
