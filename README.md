@@ -56,8 +56,6 @@ To use HydratioMate, follow these steps:
 
 ## Credits
 
-HydratioMate utilizes the following technologies and libraries:
-
 HydratioMate utilizes the following technologies, languages, and libraries:
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
