@@ -1,7 +1,4 @@
 <h1 align="center">
-  <br>
-  <img src="favicon.ico" alt="HydratioMate" width="200">
-  <br>
   HydratioMate
   <br>
 </h1>
@@ -23,7 +20,6 @@
   <a href="#overview">Overview</a> •
   <a href="#features">Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#screenshots">Screenshots</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
