@@ -1,0 +1,26 @@
+.navbar  {
+    background: linear-gradient(to right, #3498db, #a3cbf7);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+.navbar-brand {
+  color: white !important;
+}
+
+@media (min-width: 992px) {
+  .navbar-nav {
+    margin-left: auto;
+  }
+}
+
+.navbar-brand {
+  font-family: 'Sometype Mono', monospace;
+}
+
+h1 {
+  font-family: 'Sometype Mono', monospace;
+}
+
