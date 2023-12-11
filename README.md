@@ -17,7 +17,7 @@ HydratioMate is a web application designed to help you track your daily water in
 
 ![screenshot](assets/images/screenshot.png)
 
-**Live Demo**: [HydratioMate](https://hydratiomate.netlify.app/){:target="_blank"}
+**Live Demo**: [HydratioMate Demo](https://hydratiomate.netlify.app/)
 
 ## Features
 
@@ -45,13 +45,13 @@ To use HydratioMate, follow these steps:
 
 HydratioMate utilizes the following technologies, languages, and libraries:
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML){:target="_blank"}
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS){:target="_blank"}
-- [Bootstrap](https://getbootstrap.com/){:target="_blank"}
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank"}
-- [Sweetalert2](https://sweetalert2.github.io/){:target="_blank"}
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Bootstrap](https://getbootstrap.com/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Sweetalert2](https://sweetalert2.github.io/)
 
 ---
 
 > [vitalefrancesco.com](https://www.vitalefrancesco.com) &nbsp;&middot;&nbsp;
-> GitHub [@francescovitale-dev](https://github.com/francescovitale-dev){:target="_blank"}
+> GitHub [@francescovitale-dev](https://github.com/francescovitale-dev)
