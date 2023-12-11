@@ -1,28 +1,15 @@
-<h1 align="center">
-  HydratioMate
-  <br>
-</h1>
+# HydratioMate
 
-<h4 align="center">Stay hydrated with HydratioMate Assistant</h4>
+## Stay hydrated with HydratioMate Assistant
 
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.20/dist/sweetalert2.min.js">
-    <img src="https://img.shields.io/badge/Sweetalert2-v11.0.20-orange"
-         alt="Sweetalert2">
-  </a>
-  <a href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js">
-      <img src="https://img.shields.io/badge/Bootstrap-v5.3.2-blue"
-           alt="Bootstrap">
-  </a>
-</p>
+[![Sweetalert2](https://img.shields.io/badge/Sweetalert2-v11.0.20-orange)](https://cdn.jsdelivr.net/npm/sweetalert2@11.0.20/dist/sweetalert2.min.js)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.3.2-blue)](https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js)
 
-<p align="center">
-  <a href="#overview">Overview</a> •
-  <a href="#features">Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
-</p>
+- [Overview](#overview)
+- [Features](#features)
+- [How To Use](#how-to-use)
+- [Credits](#credits)
+- [License](#license)
 
 ## Overview
 
@@ -30,7 +17,7 @@ HydratioMate is a web application designed to help you track your daily water in
 
 ![screenshot](assets/images/screenshot.png)
 
-**Live Demo**: [HydratioMate Demo](https://hydratiomate.netlify.app/)
+**Live Demo**: [HydratioMate](https://hydratiomate.netlify.app/)
 
 ## Features
 
